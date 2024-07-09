@@ -1,0 +1,14 @@
+Questions for Case Study
+
+1. Write a query to calculate the length of each ride in minutes, the month the ride took place in and
+a column for the day of the week the ride took place for each ride_id.
+2. Write a query to find the average, minimum and maximum ride lengths for all riders in minutes.
+3. Did you find any rides where end time was lower than start time? If yes please share the count of those rides.
+4. How many rides are longer than 24 hours?
+5. Write a query to get the average ride length by type of member_casual.
+6. Write a query to calculate the average ride length for each day of the week.
+7. Write a query to find Of all the rides taken, how many were by members and how many were by casual riders.
+8. Write a query to find How many rides are taken on each day of the week by each group.
+9. Write a query to find how many rides are taken at each hour of the day, for each day, for members and casual riders.
+10. Write a query to find for each type of rideable_type, how many rides are taken by member and how many are taken by casual.
+11. What are the top 4 popular locations for members and casual to take rides.
